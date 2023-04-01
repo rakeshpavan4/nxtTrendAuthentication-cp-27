@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.shop-button {
+  color: white;
+  border: none;
+  border-radius: 5px;
+  background-color: blue;
+}

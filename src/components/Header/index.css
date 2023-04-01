@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.logo {
+  height: 50px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+}
+.logout-button {
+  color: white;
+  border: none;
+  border-radius: 5px;
+  background-color: blue;
+}
+.space {
+  margin: 10px;
+}

@@ -1,0 +1,55 @@
+/* Write your CSS code here */
+.Login-component {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+  margin-top: 130px;
+}
+.website-login {
+  height: 300px;
+}
+.website-logo {
+  height: 60px;
+  width: 250px;
+}
+.input-container {
+  height: 400px;
+  width: 300px;
+  box-shadow: 1px 2px 2px 2px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+.button {
+  cursor: pointer;
+  height: 30px;
+  width: 60px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+.error-message {
+  color: red;
+}
+.password-input-filed {
+  height: 30px;
+  background-color: #d7dfe9;
+  border: none;
+  margin-top: 10px;
+
+  margin-bottom: 10px;
+}
+.username-input-filed {
+  height: 30px;
+  background-color: #d7dfe9;
+  border: none;
+  margin-top: 10px;
+
+  margin-bottom: 10px;
+}
